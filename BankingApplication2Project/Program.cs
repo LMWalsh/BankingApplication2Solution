@@ -39,6 +39,7 @@ namespace BankingApplication2Project {
           //  accounts.Add(chk1);
            // accounts.Add(chk2);
 
+
             foreach (var account in accounts) {
                 Console.WriteLine(account);
             }
